@@ -7,6 +7,8 @@ The repository contains all the necessary information, links and scripts necesar
 
 PROJECT PRESENTATION: https://docs.google.com/presentation/d/1lR-g_rDi1FqHtUjRStP2hjkyiU3Xk0BZ5PwzStQkDPA/edit?usp=sharing
 
+PROJECT VIDEO: https://youtu.be/UhPsNx_lsw8
+
 FACULTY: Stanislas Chaillou + Oana Taut
 
 COLLABORATORS: Hesham Shawqy + German Otto Bodenbender
