@@ -29,10 +29,5 @@ COLLABORATORS: Hesham Shawqy + German Otto Bodenbender
 
 // CREDITS
 
-This project makse use of the pix2pix-tensorflow moodel:
-@article{pix2pix2016,
-  title={Image-to-Image Translation with Conditional Adversarial Networks},
-  author={Isola, Phillip and Zhu, Jun-Yan and Zhou, Tinghui and Efros, Alexei A},
-  journal={arxiv},
-  year={2016}
-}
+This project was developed using the pix2pix-tensorflow model from the repository below:
+https://github.com/affinelayer/pix2pix-tensorflow
