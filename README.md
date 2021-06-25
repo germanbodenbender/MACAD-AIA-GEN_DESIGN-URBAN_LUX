@@ -1,4 +1,4 @@
-<img src="./URBAN VOIDS.png">
+<img src="./AIA-GEN DESIGN-URBAN LUX-SCIENTIFIC POSTER.jpg">
 
 # MACAD MASTERS + AIA + GENERATIVE BUILDING DESIGN SEMINAR //  URBAN LUX
 A packaged repository for our final project called "Urban Lux", created for the Generative Building design seminar at  the MACAD Masters.
